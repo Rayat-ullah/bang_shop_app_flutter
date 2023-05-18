@@ -3,14 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+.
+![pic1](https://github.com/Rayat-ullah/bang_shop_app_flutter/assets/90436318/690c37ff-443a-4816-9b18-f9832280d2ed)
+![2](https://github.com/Rayat-ullah/bang_shop_app_flutter/assets/90436318/4b89a98f-ed50-4c93-a4c3-c116d1ec17ab)
+![3](https://github.com/Rayat-ullah/bang_shop_app_flutter/assets/90436318/5e5d10a8-cf27-424f-8655-fb0a719f88c4)
+![4](https://github.com/Rayat-ullah/bang_shop_app_flutter/assets/90436318/c0ddf223-6882-4da2-86d8-f2fa384a612f)
